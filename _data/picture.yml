@@ -3,7 +3,7 @@ media_queries:
 
 presets:
   default:
-    formats: [avif, webp, jp2, png, gif, original]
+    formats: [webp, png, gif, original]
     format_quality:
       avif: 50
     sizes: 
